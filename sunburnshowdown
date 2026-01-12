@@ -1,0 +1,89 @@
+{
+  "title": "Sunburn Showdown: Hawthorne",
+  "description": "A dark and brooding beast enters a Pokemon Tournament",
+  "artist": "Pengogo (and others)",
+  "author": "Pengogo (and others)",
+  "cover": "https://cdn.imgchest.com/files/aa972938007a.png",
+  "chapters": {
+    "1": {
+      "title": "Prologue: Biergar",
+      "volume": "1",
+      "groups": {
+        "Pengogo": "/proxy/api/imgchest/chapter/tekKVzA/"
+      },
+      "last_updated": "1616368746"
+    },
+  "2": {
+      "title": "Round 1: Kaito (W)",
+      "volume": "2",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/p8nwv6yo/"
+      },
+      "last_updated": "1616368746"
+    },
+ "3": {
+      "title": "Round 2: Prof. Alabaster (W)",
+      "volume": "3",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/lqyedvrzx7d/"
+      },
+      "last_updated": "1616368746"
+    },
+ "4": {
+      "title": "Round 3: Hanabi (W)",
+      "volume": "4",
+      "groups": {
+        "Pengogo and Rex Rissole": "/proxy/api/imgur/chapter/pg73dxx5jyr/"
+      },
+      "last_updated": "1616368746"
+    },
+ "5": {
+      "title": "Round 4: Zhangpeng (L)",
+      "volume": "5",
+      "groups": {
+        "Oystersauce": "/proxy/api/imgur/chapter/vj4jmxzdx48/"
+      },
+      "last_updated": "1616368746"
+    },
+ "6": {
+      "title": "Epilogue",
+      "volume": "6",
+      "groups": {
+        "Luzu": "/proxy/api/imgur/chapter/pnlrl6yo/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7": {
+      "title": "KAITO",
+      "volume": "7",
+      "groups": {
+        "Bread": "/proxy/api/imgur/chapter/Yf5Frij/"
+      },
+      "last_updated": "1616368746"
+    },
+ "8": {
+      "title": "ALABASTER",
+      "volume": "8",
+      "groups": {
+        "Mindless Corp": "/proxy/api/imgur/chapter/ne7b6ejpjy5/"
+      },
+      "last_updated": "1616368746"
+    },
+ "9": {
+      "title": "HANABI",
+      "volume": "9",
+      "groups": {
+        "Tort": "/proxy/api/imgur/chapter/przjJTg/"
+      },
+      "last_updated": "1616368746"
+    },
+ "10": {
+      "title": "ZHANGPENG",
+      "volume": "10",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/lqyeldowq4d/"
+      },
+      "last_updated": "1616368746"
+    }
+}
+}
