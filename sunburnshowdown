@@ -17,7 +17,7 @@
       "title": "Round 1: Kaito (W)",
       "volume": "2",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/p8nwv6yo/"
+        "Pengogo": "/proxy/api/imgchest/chapter/p8nwv6yo/"
       },
       "last_updated": "1616368746"
     },
@@ -25,7 +25,7 @@
       "title": "Round 2: Prof. Alabaster (W)",
       "volume": "3",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/lqyedvrzx7d/"
+        "Pengogo": "/proxy/api/imgchest/chapter/lqyedvrzx7d/"
       },
       "last_updated": "1616368746"
     },
@@ -33,7 +33,7 @@
       "title": "Round 3: Hanabi (W)",
       "volume": "4",
       "groups": {
-        "Pengogo and Rex Rissole": "/proxy/api/imgur/chapter/pg73dxx5jyr/"
+        "Pengogo": "/proxy/api/imgchest/chapter/pg73dxx5jyr/"
       },
       "last_updated": "1616368746"
     },
@@ -41,7 +41,7 @@
       "title": "Round 4: Zhangpeng (L)",
       "volume": "5",
       "groups": {
-        "Oystersauce": "/proxy/api/imgur/chapter/vj4jmxzdx48/"
+        "Oystersauce": "/proxy/api/imgchest/chapter/vj4jmxzdx48/"
       },
       "last_updated": "1616368746"
     },
@@ -49,7 +49,7 @@
       "title": "Epilogue",
       "volume": "6",
       "groups": {
-        "Luzu": "/proxy/api/imgur/chapter/pnlrl6yo/"
+        "Luzu": "/proxy/api/imgchest/chapter/pnlrl6yo/"
       },
       "last_updated": "1616368746"
     },
@@ -65,7 +65,7 @@
       "title": "ALABASTER",
       "volume": "8",
       "groups": {
-        "Mindless Corp": "/proxy/api/imgur/chapter/ne7b6ejpjy5/"
+        "Mindless Corp": "/proxy/api/imgchest/chapter/ne7b6ejpjy5/"
       },
       "last_updated": "1616368746"
     },
@@ -81,7 +81,7 @@
       "title": "ZHANGPENG",
       "volume": "10",
       "groups": {
-        "Pengogo": "/proxy/api/imgur/chapter/lqyeldowq4d/"
+        "Pengogo": "/proxy/api/imgchest/chapter/lqyeldowq4d/"
       },
       "last_updated": "1616368746"
     }
